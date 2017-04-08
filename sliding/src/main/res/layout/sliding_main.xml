@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="俄罗斯战舰正在驶向攻击叙利亚的美国战舰"
+        android:textSize="36sp"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"/>
+
+    <Button
+        android:id="@+id/but"
+        android:onClick="close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="清除缓存"/>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day25_PullSliding.iml" filepath="$PROJECT_DIR$/Day25_PullSliding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenu/SlidingMenu.iml" filepath="$PROJECT_DIR$/SlidingMenu/SlidingMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawerlayoutdemo/drawerlayoutdemo.iml" filepath="$PROJECT_DIR$/drawerlayoutdemo/drawerlayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefresh/pullToRefresh.iml" filepath="$PROJECT_DIR$/pullToRefresh/pullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sliding/sliding.iml" filepath="$PROJECT_DIR$/sliding/sliding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swiperefresh/swiperefresh.iml" filepath="$PROJECT_DIR$/swiperefresh/swiperefresh.iml" />
+    </modules>
+  </component>
+</project>

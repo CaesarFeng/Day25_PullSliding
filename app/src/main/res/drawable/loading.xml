@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <item android:drawable="@mipmap/elec06" android:duration="300"/>
+    <item android:drawable="@mipmap/elec05" android:duration="300"/>
+    <item android:drawable="@mipmap/elec04" android:duration="300"/>
+    <item android:drawable="@mipmap/elec03" android:duration="300"/>
+    <item android:drawable="@mipmap/elec02" android:duration="300"/>
+    <item android:drawable="@mipmap/elec01" android:duration="300"/>
+    <item android:drawable="@mipmap/elec01" android:duration="300"/>
+    <item android:drawable="@mipmap/elec01" android:duration="300"/>
+
+</animation-list>
